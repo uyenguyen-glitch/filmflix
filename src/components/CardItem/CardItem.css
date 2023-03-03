@@ -1,0 +1,9 @@
+.ant-card-meta-detail .ant-card-meta-title,
+.ant-card-meta-description {
+  color: white !important;
+}
+
+.ant-card-body {
+  position: relative;
+  padding: 0px !important;
+}

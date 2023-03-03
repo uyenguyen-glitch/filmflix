@@ -1,3 +1,9 @@
+#Adding library:
+--react-router-dom
+--formilk
+--yup
+--ant design
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
